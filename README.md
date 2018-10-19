@@ -4,7 +4,6 @@
 
 ## Running instructions:
 
-- Clone the repository
 - Install React, npm, create-react-app, and axios if not previously installed
 - Create a new react app using create-react-app
 - Open the App.js file and Copy and paste the code from the App.js file in this repo or Download the file and replace the App.js file
