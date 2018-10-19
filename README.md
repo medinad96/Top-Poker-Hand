@@ -12,3 +12,7 @@
 - Click on the button that says click me! in the browser on localhost:3000
 - Scroll to see tests and the last line will be the output using the data from Deck of Cards
 
+## Assumptions
+- I assumed a HIGHCARD to be above a 10
+- Anything 10 or below will return NOTHING
+
